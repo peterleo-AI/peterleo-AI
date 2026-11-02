@@ -89,7 +89,7 @@ Exploring efficient and locally deployable AI models.
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/)
+- 💼 LinkedIn: [LinkedIn URL](https://www.linkedin.com/)
 - 🐙 GitHub: [peterleo-AI](https://github.com/peterleo-AI)
 
 ---
